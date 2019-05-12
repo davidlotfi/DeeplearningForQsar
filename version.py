@@ -5,6 +5,7 @@ import sklearn as sk
 import tensorflow as tf
 import numpy as np
 
+print('version of package')
 print(f"Tensor Flow Version: {tf.__version__}")
 print(f"Keras Version: {tensorflow.keras.__version__}")
 print()
