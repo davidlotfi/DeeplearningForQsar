@@ -1,0 +1,357 @@
+Name;Observed;Camculated;N;Name (RDKit Mol);;N;SMILES Canonical
+Benzyl cyanide;-0.36;0.071;32;C(C1=CC=CC=C1)C#N;;32;N#CCc1ccccc1
+2-Tolunitrile;-0.24;-0.062;42;C=1(C(=CC=CC1)C#N)C;;42;Cc1ccccc1C#N
+Aniline;-0.23;-0.464;44;NC1=CC=CC=C1;;44;Nc1ccccc1
+2-Ethylaniline;-0.22;-0.003;45;C(C)C1=C(N)C=CC=C1;;45;CCc1ccccc1N
+1-Phenylethylamine;-0.18;-0.133;50;C1(=CC=CC=C1)C(C)N;;50;CC(N)c1ccccc1
+2-Chloroaniline;-0.17;0.079;51;ClC1=C(N)C=CC=C1;;51;Nc1ccccc1Cl
+34-Dimethylaniline;-0.16;-0.244;53;CC=1C=C(N)C=CC1C;;53;Cc1ccc(N)cc1C
+2-Methylaniline;-0.16;0.024;54;CC1=C(N)C=CC=C1;;54;Cc1ccccc1N
+3-Phenylpropionitrile;-0.16;0.28;56;C1(=CC=CC=C1)CCC#N;;56;N#CCCc1ccccc1
+3-Acetamidophenol;-0.16;0.342;57;C(C)(=O)NC=1C=C(C=CC1)O;;57;CC(=O)Nc1cccc(O)c1
+Benzene;-0.12;-0.363;62;C1=CC=CC=C1;;62;c1ccccc1
+2-Phenyl-1-butanol;-0.11;0.503;63;C1(=CC=CC=C1)C(CO)CC;;63;CCC(CO)c1ccccc1
+Benzaldoxime;-0.11;0.126;64;C(C1=CC=CC=C1)=NO;;64;ON=Cc1ccccc1
+Anisole;-0.1;-0.142;65;C1(=CC=CC=C1)OC;;65;COc1ccccc1
+3-Fluoroaniline;-0.1;-0.094;66;FC=1C=C(N)C=CC1;;66;Nc1cccc(F)c1
+3-Phenyl-2-propen-1-ol;-0.08;-0.08;71;C1(=CC=CC=C1)C=CCO;;71;OCC=Cc1ccccc1
+Propiophenone;-0.07;0.152;73;C(CC)(=O)C1=CC=CC=C1;;73;CCC(=O)c1ccccc1
+4-Methylaniline;-0.05;-0.196;75;CC1=CC=C(N)C=C1;;75;Cc1ccc(N)cc1
+246-Trimethylaniline;-0.05;0.268;76;CC1=C(N)C(=CC(=C1)C)C;;76;Cc1cc(C)c(N)c(C)c1
+2-(4-Tolyl)-ethylamine;-0.04;0.3;77;C1(=CC=C(C=C1)CCN)C;;77;Cc1ccc(CCN)cc1
+3-Ethylaniline;-0.03;0.047;78;C(C)C=1C=C(N)C=CC1;;78;CCc1cccc(N)c1
+4-Hydroxy-3-methoxybenzonitrile;-0.03;0.288;80;OC1=C(C=C(C#N)C=C1)OC;;80;COc1cc(C#N)ccc1O
+4-Methyl benzylamine;-0.01;0.283;83;CC1=CC=C(CN)C=C1;;83;Cc1ccc(CN)cc1
+Thioacetanilide;-0.01;0.177;84;C(C)(=S)NC1=CC=CC=C1;;84;CC(=S)Nc1ccccc1
+3-Phenyl-1-butanol;0.01;0.205;85;C1(=CC=CC=C1)C(CCO)C;;85;CC(CCO)c1ccccc1
+4-Ethoxyphenol;0.01;0.328;87;C(C)OC1=CC=C(C=C1)O;;87;CCOc1ccc(O)cc1
+4-Ethylaniline;0.03;0.052;90;C(C)C1=CC=C(N)C=C1;;90;CCc1ccc(N)cc1
+3-Nitroaniline;0.03;0.047;91;[N+](=O)([O-])C=1C=C(N)C=CC1;;91;Nc1cccc([N+](=O)[O-])c1
+4-Chloroaniline;0.05;0.114;92;ClC1=CC=C(N)C=C1;;92;Nc1ccc(Cl)cc1
+Benzyl chloride;0.06;0.254;94;C(C1=CC=CC=C1)CCl;;94;ClCCc1ccccc1
+N-Methylaniline;0.06;-0.055;95;CNC1=CC=CC=C1;;95;CNc1ccccc1
+4-Ethylbenzyl alcohol;0.07;0.113;96;C(C)C1=CC=C(CO)C=C1;;96;CCc1ccc(CO)cc1
+N-Ethylaniline;0.07;0.237;97;C(C)NC1=CC=CC=C1;;97;CCNc1ccccc1
+Bromobenzene;0.08;0.023;98;BrC1=CC=CC=C1;;98;Brc1ccccc1
+2-Nitroaniline;0.08;0.311;99;[N+](=O)([O-])C1=C(N)C=CC=C1;;99;Nc1ccccc1[N+](=O)[O-]
+2-Propylaniline;0.08;0.108;100;C(CC)C1=C(N)C=CC=C1;;100;CCCc1ccccc1N
+3-Hydroxybenzaldehyde;0.08;0.323;101;OC=1C=C(C=O)C=CC1;;101;O=Cc1cccc(O)c1
+Thiobenzamide;0.09;-0.199;102;C(C1=CC=CC=C1)(=S)N;;102;NC(=S)c1ccccc1
+1-Fluoro-4-nitrobenzene;0.1;0.125;103;FC1=CC=C(C=C1)[N+](=O)[O-];;103;O=[N+]([O-])c1ccc(F)cc1
+4-Methoxybenzonitrile;0.1;0.493;105;COC1=CC=C(C#N)C=C1;;105;COc1ccc(C#N)cc1
+35-Dimethylphenol;0.11;0.393;106;CC=1C=C(C=C(C1)C)O;;106;Cc1cc(C)cc(O)c1
+4-Phenyl-1-butanol;0.12;0.132;108;C1(=CC=CC=C1)CCCCO;;108;OCCCCc1ccccc1
+2-iso-Propylaniline;0.12;0.323;110;C(C)(C)C1=C(N)C=CC=C1;;110;CC(C)c1ccccc1N
+34-Dimethylphenol;0.12;0.368;111;CC=1C=C(C=CC1C)O;;111;Cc1ccc(O)cc1C
+23-Dimethylphenol;0.12;0.312;112;CC1=C(C=CC=C1C)O;;112;Cc1cccc(O)c1C
+4-Chlororesorcinol;0.13;0.862;113;ClC1=C(C=C(O)C=C1)O;;113;Oc1ccc(Cl)c(O)c1
+24-Dimethylphenol;0.14;0.35;114;CC1=C(C=CC(=C1)C)O;;114;Cc1ccc(O)c(C)c1
+2-(4-Chlorophenyl)-ethylamine;0.14;0.09;115;ClC1=CC=C(C=C1)CCN;;115;NCCc1ccc(Cl)cc1
+Nitrobenzene;0.14;0.356;116;[N+](=O)([O-])C1=CC=CC=C1;;116;O=[N+]([O-])c1ccccc1
+25-Dimethylphenol;0.14;0.549;117;CC1=C(C=C(C=C1)C)O;;117;Cc1ccc(C)c(O)c1
+4-Phenylbutyronitrile;0.15;0.708;118;C1(=CC=CC=C1)CCCC#N;;118;N#CCCCc1ccccc1
+3-Chlorobenzyl alcohol;0.15;0.231;119;ClC=1C=C(CO)C=CC1;;119;OCc1cccc(Cl)c1
+2-Ethylphenol;0.16;0.249;121;C(C)C1=C(C=CC=C1)O;;121;CCc1ccccc1O
+4-Chlorobenzylamine;0.16;0.153;122;ClC1=CC=C(CN)C=C1;;122;NCc1ccc(Cl)cc1
+Cinnamonitrile;0.16;0.216;124;C(C=CC1=CC=CC=C1)#N;;124;N#CC=Cc1ccccc1
+2-Nitrobenzaldehyde;0.17;0.297;125;[N+](=O)([O-])C1=C(C=O)C=CC=C1;;125;O=Cc1ccccc1[N+](=O)[O-]
+Thioanisole;0.18;0.32;126;C1(=CC=CC=C1)SC;;126;CSc1ccccc1
+2-Chloro-4-methylaniline;0.18;0.246;127;ClC1=C(N)C=CC(=C1)C;;127;Cc1ccc(N)c(Cl)c1
+4-iso-Propylbenzyl alcohol;0.18;-0.057;128;C(C)(C)C1=CC=C(CO)C=C1;;128;CC(C)c1ccc(CO)cc1
+2-Fluorophenol;0.19;0.372;130;FC1=C(C=CC=C1)O;;130;Oc1ccccc1F
+4-Nitrobenzaldehyde;0.2;0.295;131;[N+](=O)([O-])C1=CC=C(C=O)C=C1;;131;O=Cc1ccc([N+](=O)[O-])cc1
+4-Ethylphenol;0.21;0.349;132;C(C)C1=CC=C(C=C1)O;;132;CCc1ccc(O)cc1
+Butyrophenone;0.21;0.434;133;C(CCC)(=O)C1=CC=CC=C1;;133;CCCC(=O)c1ccccc1
+4-iso-propylaniline;0.22;0.118;134;C(C)(C)C1=CC=C(N)C=C1;;134;CC(C)c1ccc(N)cc1
+3-Chloroaniline;0.22;0.181;135;ClC=1C=C(N)C=CC1;;135;Nc1cccc(Cl)c1
+4-(Dimethylamino)-benzaldehyde;0.23;0.398;136;CN(C1=CC=C(C=O)C=C1)C;;136;CN(C)c1ccc(C=O)cc1
+3-Anisaldehyde;0.23;0.075;137;C(C1=CC(=CC=C1)OC)=O;;137;COc1cccc(C=O)c1
+1-Fluoro-2-nitrobenzene;0.23;0.563;138;FC1=C(C=CC=C1)[N+](=O)[O-];;138;O=[N+]([O-])c1ccccc1F
+4-Xylene;0.25;-0.121;139;C1(=CC=C(C=C1)C)C;;139;Cc1ccc(C)cc1
+Toluene;0.25;0.566;140;C1(=CC=CC=C1)C;;140;Cc1ccccc1
+4-Methylanisole;0.25;0.153;141;CC1=CC=C(C=C1)OC;;141;COc1ccc(C)cc1
+4-Chlorobenzyl alcohol;0.25;0.173;142;ClC1=CC=C(CO)C=C1;;142;OCc1ccc(Cl)cc1
+2-Nitrotoluene;0.26;0.3;144;[N+](=O)([O-])C1=C(C=CC=C1)C;;144;Cc1ccccc1[N+](=O)[O-]
+2-Phenylpyridine;0.27;0.664;146;C1(=CC=CC=C1)C1=NC=CC=C1;;146;c1ccc(-c2ccccn2)cc1
+3-Hydroxy-4-nitrobenzaldehyde;0.27;0.312;147;OC=1C=C(C=O)C=CC1[N+](=O)[O-];;147;O=Cc1ccc([N+](=O)[O-])c(O)c1
+3-Ethyl phenol;0.29;0.352;149;C(C)C=1C=C(C=CC1)O;;149;CCc1cccc(O)c1
+26-Diethylaniline;0.31;0.219;150;C(C)C1=C(N)C(=CC=C1)CC;;150;CCc1cccc(CC)c1N
+Methyl-4-methylaminobenzoate;0.31;0.498;151;COC(C1=CC=C(C=C1)NC)=O;;151;CNc1ccc(C(=O)OC)cc1
+Benzoyl cyanide;0.31;0.546;152;C(C1=CC=CC=C1)(=O)C#N;;152;N#CC(=O)c1ccccc1
+4-Chlorophenethyl alcohol;0.32;0.663;153;ClC1=CC=C(CCO)C=C1;;153;OCCc1ccc(Cl)cc1
+2-Allylphenol;0.33;0.552;155;C(C=C)C1=C(C=CC=C1)O;;155;C=CCc1ccccc1O
+5-Hydroxy-2-nitrobenzaldehyde;0.33;1.002;156;OC=1C=CC(=C(C=O)C1)[N+](=O)[O-];;156;O=Cc1cc(O)ccc1[N+](=O)[O-]
+2-Bromophenol;0.33;0.601;157;BrC1=C(C=CC=C1)O;;157;Oc1ccccc1Br
+25-Difluoronitrobenzene;0.33;0.295;158;FC1=C(C=C(C=C1)F)[N+](=O)[O-];;158;O=[N+]([O-])c1cc(F)ccc1F
+4-Chloro-2-methylaniline;0.35;0.423;159;ClC1=CC(=C(N)C=C1)C;;159;Cc1cc(Cl)ccc1N
+2-Iodoaniline;0.35;0.309;160;IC1=C(N)C=CC=C1;;160;Nc1ccccc1I
+Iodobenzene;0.36;0.549;162;IC1=CC=CC=C1;;162;Ic1ccccc1
+4-methyl-2-nitroaniline;0.37;0.278;164;CC1=CC(=C(N)C=C1)[N+](=O)[O-];;164;Cc1ccc(N)c([N+](=O)[O-])c1
+3-Chloro-2-methylaniline;0.38;0.279;167;ClC=1C(=C(N)C=CC1)C;;167;Cc1c(N)cccc1Cl
+3-Chloro-4-methylaniline;0.39;0.316;168;ClC=1C=C(N)C=CC1C;;168;Cc1ccc(N)cc1Cl
+Methyl-4-nitrobenzoate;0.39;0.826;169;COC(C1=CC=C(C=C1)[N+](=O)[O-])=O;;169;COC(=O)c1ccc([N+](=O)[O-])cc1
+4-Chlorobenzaldehyde;0.4;0.34;170;ClC1=CC=C(C=O)C=C1;;170;O=Cc1ccc(Cl)cc1
+(2-Bromoethyl)-benzene;0.42;0.351;172;BrCCC1=CC=CC=C1;;172;BrCCc1ccccc1
+3-Nitrotoluene;0.42;0.106;174;[N+](=O)([O-])C=1C=C(C=CC1)C;;174;Cc1cccc([N+](=O)[O-])c1
+2-Hydroxybenzaldehyde;0.42;0.846;175;OC1=C(C=O)C=CC=C1;;175;O=Cc1ccccc1O
+1-Chloro-4-nitrobenzene;0.43;0.677;176;ClC1=CC=C(C=C1)[N+](=O)[O-];;176;O=[N+]([O-])c1ccc(Cl)cc1
+2-Amino-5-chlorobenzonitrile;0.44;0.274;178;NC1=C(C#N)C=C(C=C1)Cl;;178;N#Cc1cc(Cl)ccc1N
+3-Nitrobenzonitrile;0.45;0.351;179;[N+](=O)([O-])C=1C=C(C#N)C=CC1;;179;N#Cc1cccc([N+](=O)[O-])c1
+3-Phenylpyridine;0.47;0.335;181;C1(=CC=CC=C1)C=1C=NC=CC1;;181;c1ccc(-c2cccnc2)cc1
+5-Chloro-2-methylaniline;0.5;0.311;185;ClC=1C=CC(=C(N)C1)C;;185;Cc1ccc(Cl)cc1N
+3-Nitrophenol;0.51;0.485;186;[N+](=O)([O-])C=1C=C(C=CC1)O;;186;O=[N+]([O-])c1cccc(O)c1
+12-Dichlorobenzene;0.53;0.86;187;ClC1=C(C=CC=C1)Cl;;187;Clc1ccccc1Cl
+2-Chloro-5-nitrobenzaldehyde;0.53;0.726;188;ClC1=C(C=O)C=C(C=C1)[N+](=O)[O-];;188;O=Cc1cc([N+](=O)[O-])ccc1Cl
+4-Chlorophenol;0.54;0.228;189;ClC1=CC=C(C=C1)O;;189;Oc1ccc(Cl)cc1
+Phenyl propargyl sulfide;0.54;0.564;190;C(C#C)SC1=CC=CC=C1;;190;C#CCSc1ccccc1
+2-Chloro-5-methyl phenol;0.54;0.705;191;ClC1=C(C=C(C=C1)C)O;;191;Cc1ccc(Cl)c(O)c1
+24-Dichloroaniline;0.56;0.624;193;ClC1=C(N)C=CC(=C1)Cl;;193;Nc1ccc(Cl)cc1Cl
+Valerophenone;0.56;0.767;195;C(CCCC)(=O)C1=CC=CC=C1;;195;CCCCC(=O)c1ccccc1
+4-Methyl-2-nitrophenol;0.57;0.714;196;CC1=CC(=C(C=C1)O)[N+](=O)[O-];;196;Cc1ccc(O)c([N+](=O)[O-])c1
+25-Dichloroaniline;0.58;0.623;197;ClC1=C(N)C=C(C=C1)Cl;;197;Nc1cc(Cl)ccc1Cl
+Trans-methyl cinnamate;0.58;0.597;198;C(\C=C\C1=CC=CC=C1)(=O)OC;;198;COC(=O)/C=C/c1ccccc1
+5-Chloro-2-hydroxybenzamide;0.59;0.778;200;ClC=1C=CC(=C(C(=O)N)C1)O;;200;NC(=O)c1cc(Cl)ccc1O
+5-Methyl-2-nitrophenol;0.59;0.722;201;CC=1C=CC(=C(C1)O)[N+](=O)[O-];;201;Cc1ccc([N+](=O)[O-])c(O)c1
+4-Chloroanisole;0.6;0.763;202;ClC1=CC=C(C=C1)OC;;202;COc1ccc(Cl)cc1
+4-Bromophenyl acetonitrile;0.6;0.458;204;BrC1=CC=C(C=C1)CC#N;;204;N#CCc1ccc(Br)cc1
+4-s-Butylaniline;0.61;0.675;206;C(C)(CC)C1=CC=C(N)C=C1;;206;CCC(C)c1ccc(N)cc1
+2-iso-Propylphenol;0.61;0.661;208;C(C)(C)C1=C(C=CC=C1)O;;208;CC(C)c1ccccc1O
+3-Methyl-2-nitrophenol;0.61;0.389;209;CC=1C(=C(C=CC1)O)[N+](=O)[O-];;209;Cc1cccc(O)c1[N+](=O)[O-]
+4-Hydroxy-3-nitrobenzaldehyde;0.61;0.456;210;OC1=C(C=C(C=O)C=C1)[N+](=O)[O-];;210;O=Cc1ccc(O)c([N+](=O)[O-])c1
+5-Bromovanillin;0.62;0.837;211;BrC=1C(=C(C=C(C=O)C1)OC)O;;211;COc1cc(C=O)cc(Br)c1O
+4-Propylphenol;0.64;0.272;214;C(CC)C1=CC=C(C=C1)O;;214;CCCc1ccc(O)cc1
+4-Nitrotoluene;0.65;0.469;216;[N+](=O)([O-])C1=CC=C(C=C1)C;;216;Cc1ccc([N+](=O)[O-])cc1
+3-Iodoaniline;0.65;0.355;217;IC=1C=C(N)C=CC1;;217;Nc1cccc(I)c1
+4-Chlorobenzylcyanide;0.66;0.608;219;ClC1=CC=C(CC#N)C=C1;;219;N#CCc1ccc(Cl)cc1
+2-Methyl-5-nitrophenol;0.66;0.624;220;CC1=C(C=C(C=C1)[N+](=O)[O-])O;;220;Cc1ccc([N+](=O)[O-])cc1O
+2-Nitroresorcinol;0.66;0.96;221;[N+](=O)([O-])C1=C(O)C=CC=C1O;;221;O=[N+]([O-])c1c(O)cccc1O
+1-Bromo-4-ethylbenzene;0.67;0.836;222;BrC1=CC=C(C=C1)CC;;222;CCc1ccc(Br)cc1
+4-iso-Propylbenzaldehyde;0.67;0.551;223;C(C)(C)C1=CC=C(C=O)C=C1;;223;CC(C)c1ccc(C=O)cc1
+2-Nitrophenol;0.67;0.432;224;[N+](=O)([O-])C1=C(C=CC=C1)O;;224;O=[N+]([O-])c1ccccc1O
+14-Dibromobenzene;0.68;1.01;225;BrC1=CC=C(C=C1)Br;;225;Brc1ccc(Br)cc1
+2-Chloro-6-nitrotoluene;0.68;0.854;226;ClC1=C(C(=CC=C1)[N+](=O)[O-])C;;226;Cc1c(Cl)cccc1[N+](=O)[O-]
+1-Chloro-2-nitrobenzene;0.68;0.686;227;ClC1=C(C=CC=C1)[N+](=O)[O-];;227;O=[N+]([O-])c1ccccc1Cl
+4-Bromophenol;0.68;0.638;228;BrC1=CC=C(C=C1)O;;228;Oc1ccc(Br)cc1
+Iso-Propylbenzene;0.69;0.841;230;C(C)(C)C1=CC=CC=C1;;230;CC(C)c1ccccc1
+2-Chloro-45-dimethylphenol;0.69;0.251;231;ClC1=C(C=C(C(=C1)C)C)O;;231;Cc1cc(O)c(Cl)cc1C
+4-Chloro-2-methylphenol;0.7;0.666;233;ClC1=CC(=C(C=C1)O)C;;233;Cc1cc(Cl)ccc1O
+35-Dichloroaniline;0.71;0.664;234;ClC=1C=C(N)C=C(C1)Cl;;234;Nc1cc(Cl)cc(Cl)c1
+Ethyl-4-nitrobenzoate;0.71;0.705;236;C(C)OC(C1=CC=C(C=C1)[N+](=O)[O-])=O;;236;CCOC(=O)c1ccc([N+](=O)[O-])cc1
+3-Nitroanisole;0.72;0.164;237;[N+](=O)([O-])C=1C=C(C=CC1)OC;;237;COc1cccc([N+](=O)[O-])c1
+1-Chloro-3-nitrobenzene;0.73;0.444;239;ClC1=CC(=CC=C1)[N+](=O)[O-];;239;O=[N+]([O-])c1cccc(Cl)c1
+26-Dichlorophenol;0.73;1.006;240;ClC1=C(C(=CC=C1)Cl)O;;240;Oc1c(Cl)cccc1Cl
+3-tert-Butylphenol;0.74;0.696;241;C(C)(C)(C)C=1C=C(C=CC1)O;;241;CC(C)(C)c1cccc(O)c1
+2-Chloro-4-nitroaniline;0.75;0.596;243;ClC1=C(N)C=CC(=C1)[N+](=O)[O-];;243;Nc1ccc([N+](=O)[O-])cc1Cl
+1-Bromo-2-nitrobenzene;0.75;0.489;244;BrC1=C(C=CC=C1)[N+](=O)[O-];;244;O=[N+]([O-])c1ccccc1Br
+2-Methoxy-4-propenylphenol;0.75;0.84;245;COC1=C(C=CC(=C1)C=CC)O;;245;CC=Cc1ccc(O)c(OC)c1
+2-Chloromethyl-4-nitrophenol;0.75;0.75;246;ClCC1=C(C=CC(=C1)[N+](=O)[O-])O;;246;O=[N+]([O-])c1ccc(O)c(CCl)c1
+26-Diisopropylaniline;0.76;0.778;248;C(C)(C)C1=C(N)C(=CC=C1)C(C)C;;248;CC(C)c1cccc(C(C)C)c1N
+3-Chloro-5-methoxyphenol;0.76;0.684;249;ClC=1C=C(C=C(C1)OC)O;;249;COc1cc(O)cc(Cl)c1
+4-Ethoxy-2-nitroaniline;0.76;0.559;250;C(C)OC1=CC(=C(N)C=C1)[N+](=O)[O-];;250;CCOc1ccc(N)c([N+](=O)[O-])c1
+13-Dinitrobenzene;0.76;0.844;251;[N+](=O)([O-])C1=CC(=CC=C1)[N+](=O)[O-];;251;O=[N+]([O-])c1cccc([N+](=O)[O-])c1
+Ethyl-4-methoxybenzoate;0.77;0.734;253;C(C)OC(C1=CC=C(C=C1)OC)=O;;253;CCOC(=O)c1ccc(OC)cc1
+(±)-12-Diphenyl-2-propanol;0.8;1.253;254;C1(=CC=CC=C1)CC(C)(O)C1=CC=CC=C1;;254;CC(O)(Cc1ccccc1)c1ccccc1
+4-Chloro-3-methylphenol;0.8;1.063;255;ClC1=C(C=C(C=C1)O)C;;255;Cc1cc(O)ccc1Cl
+3-Chloro-4-fluoronitrobenzene;0.8;0.661;256;ClC=1C=C(C=CC1F)[N+](=O)[O-];;256;O=[N+]([O-])c1ccc(F)c(Cl)c1
+4-Chloro-2-nitrotoluene;0.82;1.233;258;ClC1=CC(=C(C=C1)C)[N+](=O)[O-];;258;Cc1ccc(Cl)cc1[N+](=O)[O-]
+4-Bromophenyl-3-pyridyl ketone;0.82;0.887;260;BrC1=CC=C(C=C1)C1=NC=CC=C1C(=O)C=1C(=NC=CC1)C1=CC=C(C=C1)Br;;260;O=C(c1cccnc1-c1ccc(Br)cc1)c1cccnc1-c1ccc(Br)cc1
+4-Nitrophenetole;0.83;0.642;262;[N+](=O)([O-])C1=CC=C(C=C1)OCC;;262;CCOc1ccc([N+](=O)[O-])cc1
+4-Iodophenol;0.85;0.864;265;IC1=CC=C(C=C1)O;;265;Oc1ccc(I)cc1
+135-Trimethyl-2-nitrobenzene;0.86;0.794;266;CC1=C(C(=CC(=C1)C)C)[N+](=O)[O-];;266;Cc1cc(C)c([N+](=O)[O-])c(C)c1
+6-Phenyl-1-hexanol;0.87;1.021;267;C1(=CC=CC=C1)CCCCCCO;;267;OCCCCCCc1ccccc1
+3-Chlorophenol;0.87;1.293;268;ClC=1C=C(C=CC1)O;;268;Oc1cccc(Cl)c1
+Benzophenone;0.87;0.585;269;C(C1=CC=CC=C1)(=O)C1=CC=CC=C1;;269;O=C(c1ccccc1)c1ccccc1
+135-Trichlorobenzene;0.87;1.027;270;ClC1=CC(=CC(=C1)Cl)Cl;;270;Clc1cc(Cl)cc(Cl)c1
+4-Biphenylmethanol;0.92;0.744;273;C1(=CC=C(C=C1)CO)C1=CC=CC=C1;;273;OCc1ccc(-c2ccccc2)cc1
+345-Trimethylphenol;0.93;0.512;274;CC=1C=C(C=C(C1C)C)O;;274;Cc1cc(O)cc(C)c1C
+4-Pentyloxyaniline;0.97;1.138;276;C(CCCC)OC1=CC=C(N)C=C1;;276;CCCCCOc1ccc(N)cc1
+(trans)-ethyl cinnamate;0.99;0.83;278;C(\C=C\C1=CC=CC=C1)(=O)OCC;;278;CCOC(=O)/C=C/c1ccccc1
+4-Benzoylphenol;1.02;0.999;279;C(C1=CC=CC=C1)(=O)C1=CC=C(C=C1)O;;279;O=C(c1ccccc1)c1ccc(O)cc1
+1-Bromo-3-nitrobenzene;1.03;0.792;280;BrC1=CC(=CC=C1)[N+](=O)[O-];;280;O=[N+]([O-])c1cccc(Br)c1
+24-Dichlorophenol;1.04;0.86;281;ClC1=C(C=CC(=C1)Cl)O;;281;Oc1ccc(Cl)cc1Cl
+24-Dichlorobenzaldehyde;1.04;1.033;283;ClC1=C(C=O)C=CC(=C1)Cl;;283;O=Cc1ccc(Cl)cc1Cl
+Biphenyl;1.05;0.881;284;C1(=CC=CC=C1)C1=CC=CC=C1;;284;c1ccc(-c2ccccc2)cc1
+24-Dinitrophenol;1.06;1.218;285;[N+](=O)([O-])C1=C(C=CC(=C1)[N+](=O)[O-])O;;285;O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1
+4-Butylaniline;1.07;1.239;286;C(CCC)C1=CC=C(N)C=C1;;286;CCCCc1ccc(N)cc1
+34-Dichlorotoluene;1.07;1.165;287;ClC=1C=C(C=CC1Cl)C;;287;Cc1ccc(Cl)c(Cl)c1
+23-Dichloronitrobenzene;1.07;0.95;288;ClC1=C(C=CC=C1Cl)[N+](=O)[O-];;288;O=[N+]([O-])c1cccc(Cl)c1Cl
+Benzyl-4-hydroxylphenyl ketone;1.07;0.747;289;C(C1=CC=CC=C1)C1=C(C=CC(=C1)O)C(=O)C1=C(C=C(C=C1)O)CC1=CC=CC=C1;;289;O=C(c1ccc(O)cc1Cc1ccccc1)c1ccc(O)cc1Cc1ccccc1
+124-Trichlorobenzene;1.08;1.253;290;ClC1=C(C=C(C=C1)Cl)Cl;;290;Clc1ccc(Cl)c(Cl)c1
+4-Chloro-3-ethylphenol;1.08;0.788;291;ClC1=C(C=C(C=C1)O)CC;;291;CCc1cc(O)ccc1Cl
+1-Fluoro-3-iodo-5-nitrobenzene;1.09;1.457;292;FC1=CC(=CC(=C1)[N+](=O)[O-])I;;292;O=[N+]([O-])c1cc(F)cc(I)c1
+Resorcinol monobenzoate;1.11;1.279;293;C(C1=CC=CC=C1)(=O)O.C1(O)=CC(O)=CC=C1;;293;O=C(O)c1ccccc1.Oc1cccc(O)c1
+6-Chloro-24-dinitroaniline;1.12;1.403;294;ClC1=CC(=CC(=C1N)[N+](=O)[O-])[N+](=O)[O-];;294;Nc1c(Cl)cc([N+](=O)[O-])cc1[N+](=O)[O-]
+4-Biphenylcarboxaldehyde;1.12;1.056;295;C1(=CC=C(C=C1)C=O)C1=CC=CC=C1;;295;O=Cc1ccc(-c2ccccc2)cc1
+35-Dichloronitrobenzene;1.13;1.278;296;ClC=1C=C(C=C(C1)Cl)[N+](=O)[O-];;296;O=[N+]([O-])c1cc(Cl)cc(Cl)c1
+25-Dichloronitrobenzene;1.13;1.264;297;ClC1=C(C=C(C=C1)Cl)[N+](=O)[O-];;297;O=[N+]([O-])c1cc(Cl)ccc1Cl
+2-Bromo-5-nitrotoluene;1.16;1.09;298;BrC1=C(C=C(C=C1)[N+](=O)[O-])C;;298;Cc1cc([N+](=O)[O-])ccc1Br
+34-Dichloronitrobenzene;1.16;1.225;299;ClC=1C=C(C=CC1Cl)[N+](=O)[O-];;299;O=[N+]([O-])c1ccc(Cl)c(Cl)c1
+6-tert-butyl-24-dimethylphenol;1.16;1.133;300;C(C)(C)(C)C1=CC(=CC(=C1O)C)C;;300;Cc1cc(C)c(O)c(C(C)(C)C)c1
+4-Bromo-26-dimethylphenol;1.16;1.007;301;BrC1=CC(=C(C(=C1)C)O)C;;301;Cc1cc(Br)cc(C)c1O
+35-Dibromo-4-hydroxybenzonitrile;1.16;1.264;303;BrC=1C=C(C#N)C=C(C1O)Br;;303;N#Cc1cc(Br)c(O)c(Br)c1
+4-(Pentyloxy)-benzaldehyde;1.18;0.714;304;C(CCCC)OC1=CC=C(C=O)C=C1;;304;CCCCCOc1ccc(C=O)cc1
+4-Nitrobenzyl chloride;1.18;1.372;305;[N+](=O)([O-])C1=CC=C(CCl)C=C1;;305;O=[N+]([O-])c1ccc(CCl)cc1
+Hexanophenone;1.19;1.114;306;C(CCCCC)(=O)C1=CC=CC=C1;;306;CCCCCC(=O)c1ccccc1
+4-Chloro-35-dimethylphenol;1.2;0.807;307;ClC1=C(C=C(C=C1C)O)C;;307;Cc1cc(O)cc(C)c1Cl
+4-tert-Pentylphenol;1.23;0.848;308;C(C)(C)(CC)C1=CC=C(C=C1)O;;308;CCC(C)(C)c1ccc(O)cc1
+n-Propyl cinnamate;1.23;1.152;309;C(C=CC1=CC=CC=C1)(=O)OCCC;;309;CCCOC(=O)C=Cc1ccccc1
+2-Bromo-46-dinitroaniline;1.24;1.472;310;BrC1=C(N)C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-];;310;Nc1c(Br)cc([N+](=O)[O-])cc1[N+](=O)[O-]
+n-Butylbenzene;1.25;0.925;311;C(CCC)C1=CC=CC=C1;;311;CCCCc1ccccc1
+12-Dinitrobenzene;1.25;0.85;312;[N+](=O)([O-])C1=C(C=CC=C1)[N+](=O)[O-];;312;O=[N+]([O-])c1ccccc1[N+](=O)[O-]
+24-Dichloro-6-nitroaniline;1.26;1.732;314;ClC1=C(N)C(=CC(=C1)Cl)[N+](=O)[O-];;314;Nc1c(Cl)cc(Cl)cc1[N+](=O)[O-]
+4-Phenoxybenzaldehyde;1.26;1.158;315;O(C1=CC=CC=C1)C1=CC=C(C=O)C=C1;;315;O=Cc1ccc(Oc2ccccc2)cc1
+4-Chloro-3-nitrophenol;1.27;1.007;316;ClC1=C(C=C(C=C1)O)[N+](=O)[O-];;316;O=[N+]([O-])c1cc(O)ccc1Cl
+4-Bromo-6-chloro-2-cresol;1.28;1.203;317;BrC=1C=C(C(=C(C1)Cl)O)C;;317;Cc1cc(Br)cc(Cl)c1O
+245-Trichloroaniline;1.3;1.136;318;ClC1=C(N)C=C(C(=C1)Cl)Cl;;318;Nc1cc(Cl)c(Cl)cc1Cl
+14-Dinitrobenzene;1.3;1.029;319;[N+](=O)([O-])C1=CC=C(C=C1)[N+](=O)[O-];;319;O=[N+]([O-])c1ccc([N+](=O)[O-])cc1
+2-Nitrobiphenyl;1.3;0.769;320;[N+](=O)([O-])C1=C(C=CC=C1)C1=CC=CC=C1;;320;O=[N+]([O-])c1ccccc1-c1ccccc1
+5-Pentylresorcinol;1.31;1.091;321;C(CCCC)C=1C=C(C=C(O)C1)O;;321;CCCCCc1cc(O)cc(O)c1
+Ethyl-4-bromobenzoate;1.33;1.115;322;C(C)OC(C1=CC=C(C=C1)Br)=O;;322;CCOC(=O)c1ccc(Br)cc1
+Phenyl benzoate;1.35;1.312;324;C(C1=CC=CC=C1)(=O)OC1=CC=CC=C1;;324;O=C(Oc1ccccc1)c1ccccc1
+Phenyl-4-hydroxybenzoate;1.37;1.257;325;C1(=CC=CC=C1)OC(C1=CC=C(C=C1)O)=O;;325;O=C(Oc1ccccc1)c1ccc(O)cc1
+25-Dibromonitrobenzene;1.37;1.447;326;BrC1=C(C=C(C=C1)Br)[N+](=O)[O-];;326;O=[N+]([O-])c1cc(Br)ccc1Br
+4-Hexyloxyaniline;1.38;1.529;327;C(CCCCC)OC1=CC=C(N)C=C1;;327;CCCCCCOc1ccc(N)cc1
+24-Dibromophenol;1.4;1.174;328;BrC1=C(C=CC(=C1)Br)O;;328;Oc1ccc(Br)cc1Br
+246-Trichlorophenol;1.41;0.953;329;ClC1=C(C(=CC(=C1)Cl)Cl)O;;329;Oc1c(Cl)cc(Cl)cc1Cl
+Phenyl isothiocyanate;1.41;1.511;330;C1(=CC=CC=C1)N=C=S;;330;S=C=Nc1ccccc1
+2-Hydroxy-4-methoxybenzophenone;1.42;1.375;331;OC1=C(C(=O)C2=CC=CC=C2)C=CC(=C1)OC;;331;COc1ccc(C(=O)c2ccccc2)c(O)c1
+135-Trichloro-2-nitrobenzene;1.43;1.822;332;ClC1=C(C(=CC(=C1)Cl)Cl)[N+](=O)[O-];;332;O=[N+]([O-])c1c(Cl)cc(Cl)cc1Cl
+Benzyl benzoate;1.45;1.505;333;C(C1=CC=CC=C1)(=O)OCC1=CC=CC=C1;;333;O=C(OCc1ccccc1)c1ccccc1
+25-Diphenyl-14-benzoquinone;1.48;1.167;335;C1(=CC=CC=C1)C=1C(C=C(C(C1)=O)C1=CC=CC=C1)=O;;335;O=C1C=C(c2ccccc2)C(=O)C=C1c1ccccc1
+4-Chlorobenzophenone;1.5;1.561;336;ClC1=CC=C(C(=O)C2=CC=CC=C2)C=C1;;336;O=C(c1ccccc1)c1ccc(Cl)cc1
+123-Trichloro-4-nitrobenzene;1.51;1.773;337;ClC1=C(C(=C(C=C1)[N+](=O)[O-])Cl)Cl;;337;O=[N+]([O-])c1ccc(Cl)c(Cl)c1Cl
+124-Trichloro-5-nitrobenzene;1.53;1.795;338;ClC1=C(C=C(C(=C1)[N+](=O)[O-])Cl)Cl;;338;O=[N+]([O-])c1cc(Cl)c(Cl)cc1Cl
+n-Butyl cinnamate;1.53;1.497;339;C(C=CC1=CC=CC=C1)(=O)OCCCC;;339;CCCCOC(=O)C=Cc1ccccc1
+3-Chlorobenzophenone;1.55;1.572;340;ClC=1C=C(C(=O)C2=CC=CC=C2)C=CC1;;340;O=C(c1ccccc1)c1cccc(Cl)c1
+35-Dichlorosalicylaldehyde;1.55;1.083;341;ClC1=C(C(C=O)=CC(=C1)Cl)O;;341;O=Cc1cc(Cl)cc(Cl)c1O
+Heptanophenone;1.56;1.066;342;C(CCCCCC)(=O)C1=CC=CC=C1;;342;CCCCCCC(=O)c1ccccc1
+35-Dichlorophenol;1.56;1.488;343;ClC=1C=C(C=C(C1)Cl)O;;343;Oc1cc(Cl)cc(Cl)c1
+4-Nitrophenyl phenyl ether;1.58;1.476;344;C1(=CC=CC=C1)OC1=CC=C(C=C1)[N+](=O)[O-];;344;O=[N+]([O-])c1ccc(Oc2ccccc2)cc1
+24-Dibromo-6-nitroaniline;1.62;1.385;345;BrC1=C(N)C(=CC(=C1)Br)[N+](=O)[O-];;345;Nc1c(Br)cc(Br)cc1[N+](=O)[O-]
+4-Chloro-6-nitro-3-cresol;1.63;1.22;346;ClC=1C(=CC(=C(C1)[N+](=O)[O-])O)C;;346;Cc1cc(O)c([N+](=O)[O-])cc1Cl
+Pentafluorophenol;1.63;1.455;347;FC1=C(C(=C(C(=C1O)F)F)F)F;;347;Oc1c(F)c(F)c(F)c(F)c1F
+35-Di-tert-butylphenol;1.64;1.547;348;C(C)(C)(C)C=1C=C(C=C(C1)C(C)(C)C)O;;348;CC(C)(C)c1cc(O)cc(C(C)(C)C)c1
+35-Dibromosalicylaldehyde;1.65;1.688;349;BrC1=C(C(C=O)=CC(=C1)Br)O;;349;O=Cc1cc(Br)cc(Br)c1O
+3-Trifluoromethyl-4-nitrophenol;1.65;1.265;350;FC(C=1C=C(C=CC1[N+](=O)[O-])O)(F)F;;350;O=[N+]([O-])c1ccc(O)cc1C(F)(F)F
+45-Dichloro-2-nitroaniline;1.66;1.16;351;ClC1=CC(=C(N)C=C1Cl)[N+](=O)[O-];;351;Nc1cc(Cl)c(Cl)cc1[N+](=O)[O-]
+24-Dinitro-1-fluorobenzene;1.71;1.407;352;[N+](=O)([O-])C1=C(C=CC(=C1)[N+](=O)[O-])F;;352;O=[N+]([O-])c1ccc(F)c([N+](=O)[O-])c1
+2-(Benzylthio)-3-nitropyridine;1.72;1.475;353;C(C1=CC=CC=C1)SC1=NC=CC=C1[N+](=O)[O-];;353;O=[N+]([O-])c1cccnc1SCc1ccccc1
+46-Dinitro-2-methylphenol;1.73;1.374;354;[N+](=O)([O-])C1=CC(=C(C(=C1)[N+](=O)[O-])O)C;;354;Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O
+24-Dichloro-6-nitrophenol;1.75;1.605;355;ClC1=C(C(=CC(=C1)Cl)[N+](=O)[O-])O;;355;O=[N+]([O-])c1cc(Cl)cc(Cl)c1O
+2356-Tetrachloroaniline;1.76;1.616;356;ClC1=C(N)C(=C(C=C1Cl)Cl)Cl;;356;Nc1c(Cl)c(Cl)cc(Cl)c1Cl
+4-Bromo-26-dichlorophenol;1.78;2.311;357;BrC1=CC(=C(C(=C1)Cl)O)Cl;;357;Oc1c(Cl)cc(Br)cc1Cl
+2345-Tetrachloronitrobenzene;1.78;1.591;358;ClC1=C(C=C(C(=C1Cl)Cl)Cl)[N+](=O)[O-];;358;O=[N+]([O-])c1cc(Cl)c(Cl)c(Cl)c1Cl
+4-Hexylresorcinol;1.8;2.054;360;C(CCCCC)C1=C(C=C(O)C=C1)O;;360;CCCCCCc1ccc(O)cc1O
+26-Diiodo-4-nitrophenol;1.81;1.982;362;IC1=C(C(=CC(=C1)[N+](=O)[O-])I)O;;362;O=[N+]([O-])c1cc(I)c(O)c(I)c1
+2356-Tetrachloronitrobenzene;1.82;2.349;363;ClC1=C(C(=C(C=C1Cl)Cl)Cl)[N+](=O)[O-];;363;O=[N+]([O-])c1c(Cl)c(Cl)cc(Cl)c1Cl
+2346-Tetrachloronitrobenzene;1.87;1.841;364;ClC1=C(C(=CC(=C1Cl)Cl)Cl)[N+](=O)[O-];;364;O=[N+]([O-])c1c(Cl)cc(Cl)c(Cl)c1Cl
+Octanophenone;1.89;1.35;365;C(CCCCCCC)(=O)C1=CC=CC=C1;;365;CCCCCCCC(=O)c1ccccc1
+123-Trifluoro-4-nitrobenzene;1.89;1.862;366;FC1=C(C(=C(C=C1)[N+](=O)[O-])F)F;;366;O=[N+]([O-])c1ccc(F)c(F)c1F
+246-Tribromophenol;1.91;1.75;367;BrC1=C(C(=CC(=C1)Br)Br)O;;367;Oc1c(Br)cc(Br)cc1Br
+2345-Tetrachloroaniline;1.96;1.618;368;ClC1=C(N)C=C(C(=C1Cl)Cl)Cl;;368;Nc1cc(Cl)c(Cl)c(Cl)c1Cl
+4-Ethylbiphenyl;1.97;1.445;369;C(C)C1=CC=C(C=C1)C1=CC=CC=C1;;369;CCc1ccc(-c2ccccc2)cc1
+1245-Tetrachlorobenzene;2;1.752;370;ClC1=C(C=C(C(=C1)Cl)Cl)Cl;;370;Clc1cc(Cl)c(Cl)cc1Cl
+Pentachlorophenol;2.07;2.383;371;ClC1=C(C(=C(C(=C1O)Cl)Cl)Cl)Cl;;371;Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+245-Trichlorophenol;2.1;1.49;372;ClC1=C(C=C(C(=C1)Cl)Cl)O;;372;Oc1cc(Cl)c(Cl)cc1Cl
+24-Dinitro-1-iodobenzene;2.12;1.711;373;[N+](=O)([O-])C1=C(C=CC(=C1)[N+](=O)[O-])I;;373;O=[N+]([O-])c1ccc(I)c([N+](=O)[O-])c1
+1-Chloro-24-dinitrobenzene;2.16;1.443;374;ClC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-];;374;O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1
+2346-Tetrachlorophenol;2.18;1.94;375;ClC1=C(C(=CC(=C1Cl)Cl)Cl)O;;375;Oc1c(Cl)cc(Cl)c(Cl)c1Cl
+12-Dichloro-45-dinitrobenzene;2.21;2.115;377;ClC1=C(C=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-])Cl;;377;O=[N+]([O-])c1cc(Cl)c(Cl)cc1[N+](=O)[O-]
+15-Dichloro-23-dinitrobenzene;2.42;2.155;378;ClC1=C(C(=CC(=C1)Cl)[N+](=O)[O-])[N+](=O)[O-];;378;O=[N+]([O-])c1cc(Cl)cc(Cl)c1[N+](=O)[O-]
+Nonylphenol;2.47;2.529;379;C(CCCCCCCC)C1=C(C=CC=C1)O;;379;CCCCCCCCCc1ccccc1O
+3456-Tetrabromo-2-cresol;2.57;2.495;380;BrC1=C(C(=C(C(=C1Br)Br)Br)O)C;;380;Cc1c(O)c(Br)c(Br)c(Br)c1Br
+13-Dinitro-245-trichlorobenzene;2.6;2.639;381;[N+](=O)([O-])C1=C(C(=C(C(=C1)Cl)Cl)[N+](=O)[O-])Cl;;381;O=[N+]([O-])c1cc(Cl)c(Cl)c([N+](=O)[O-])c1Cl
+Pentabromophenol;2.66;2.903;382;BrC1=C(C(=C(C(=C1O)Br)Br)Br)Br;;382;Oc1c(Br)c(Br)c(Br)c(Br)c1Br
+2345-Tetrachlorophenol;2.72;1.925;383;ClC1=C(C=C(C(=C1Cl)Cl)Cl)O;;383;Oc1cc(Cl)c(Cl)c(Cl)c1Cl
+14-Dinitrotetrachlorobenzene;2.82;3.164;384;[N+](=O)([O-])C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl;;384;O=[N+]([O-])c1c(Cl)c(Cl)c([N+](=O)[O-])c(Cl)c1Cl
+3-Aminobenzyl alcohol;-1.13;-0.426;1;NC=1C=C(CO)C=CC1;;1;Nc1cccc(CO)c1
+2-Aminobenzyl alcohol;-1.07;-0.46;2;NC1=C(CO)C=CC=C1;;2;Nc1ccccc1CO
+Benzyl alcohol;-0.83;-0.305;3;C(C1=CC=CC=C1)O;;3;OCc1ccccc1
+4-Hydroxyphenethyl alcohol;-0.83;-0.066;4;OC1=CC=C(CCO)C=C1;;4;OCCc1ccc(O)cc1
+4-Aminobenzyl cyanide;-0.76;-0.019;5;NC1=CC=C(CC#N)C=C1;;5;N#CCc1ccc(N)cc1
+2-Nitrobenzamide;-0.72;0.622;6;[N+](=O)([O-])C1=C(C(=O)N)C=CC=C1;;6;NC(=O)c1ccccc1[N+](=O)[O-]
+4-Hydroxy-3-methoxybenzyl alcohol;-0.7;-0.192;7;OC1=C(C=C(CO)C=C1)OC;;7;COc1cc(CO)ccc1O
+2-Methoxyaniline;-0.69;-0.224;8;COC1=C(N)C=CC=C1;;8;COc1ccccc1N
+13-Dihydroxybenzene;-0.65;0.466;10;OC1=CC(=CC=C1)O;;10;Oc1cccc(O)c1
+1-Phenyl-2-propanol;-0.62;-0.134;11;C1(=CC=CC=C1)CC(C)O;;11;CC(O)Cc1ccccc1
+Phenethyl alcohol;-0.59;-0.142;12;C(CC1=CC=CC=C1)O;;12;OCCc1ccccc1
+2-Phenyl-2-propanol;-0.57;0.186;13;C1(=CC=CC=C1)C(C)(C)O;;13;CC(C)(O)c1ccccc1
+246-Tris-(Dimethylaminomethyl)phenol;-0.52;-2.218;15;CN(C)CC1=C(C(=CC(=C1)CN(C)C)CN(C)C)O;;15;CN(C)Cc1cc(CN(C)C)c(O)c(CN(C)C)c1
+4-Methylbenzyl alcohol;-0.49;-0.081;16;CC1=CC=C(CO)C=C1;;16;Cc1ccc(CO)cc1
+Phenylacetic acid hydrazide;-0.48;0.09;17;C1(=CC=CC=C1)CC(=O)NN;;17;NNC(=O)Cc1ccccc1
+3-Cyanoaniline;-0.47;-0.247;18;C(#N)C=1C=C(N)C=CC1;;18;N#Cc1cccc(N)c1
+Acetophenone;-0.46;-0.01;19;C(C)(=O)C1=CC=CC=C1;;19;CC(=O)c1ccccc1
+2-Methylbenzyl alcohol;-0.43;-0.013;20;CC1=C(CO)C=CC=C1;;20;Cc1ccccc1CO
+(±)1-Phenyl-1-propanol;-0.43;-0.015;21;C1(=CC=CC=C1)C(CC)O;;21;CCC(O)c1ccccc1
+23-Dimethylaniline;-0.43;-0.122;22;CC1=C(N)C=CC=C1C;;22;Cc1cccc(N)c1C
+26-Dimethylaniline;-0.43;0.038;23;CC1=C(N)C(=CC=C1)C;;23;Cc1cccc(C)c1N
+2-Methyl-1-phenyl-2-propanol;-0.41;0.458;24;CC(CC1=CC=CC=C1)(C)O;;24;CC(C)(O)Cc1ccccc1
+N-Methylphenethylamine;-0.41;0.561;25;CNCCC1=CC=CC=C1;;25;CNCCc1ccccc1
+2-Phenyl-1-propanol;-0.4;-0.284;26;C1(=CC=CC=C1)C(CO)C;;26;CC(CO)c1ccccc1
+3-Fluorobenzyl alcohol;-0.39;0.018;27;FC=1C=C(CO)C=CC1;;27;OCc1cccc(F)c1
+4-Hydroxybenzyl cyanide;-0.38;0.249;28;OC1=CC=C(CC#N)C=C1;;28;N#CCc1ccc(O)cc1
+4-Cyanobenzamide;-0.38;0.12;29;C(#N)C1=CC=C(C(=O)N)C=C1;;29;N#Cc1ccc(C(N)=O)cc1
+2-Fluoroaniline;-0.37;-0.181;30;FC1=C(N)C=CC=C1;;30;Nc1ccccc1F
+35-Dimethylaniline;-0.36;0.065;31;CC=1C=C(N)C=C(C1)C;;31;Cc1cc(C)cc(N)c1
+Phenol;-0.35;0.083;33;C1(=CC=CC=C1)O;;33;Oc1ccccc1
+3-Methoxy phenol;-0.33;0.021;34;COC=1C=C(C=CC1)O;;34;COc1cccc(O)c1
+25-Dimethylaniline;-0.33;0.192;35;CC1=C(N)C=C(C=C1)C;;35;Cc1ccc(C)c(N)c1
+2-Methylphenol;-0.29;0.022;36;CC1=C(C=CC=C1)O;;36;Cc1ccccc1O
+24-Dimethylaniline;-0.29;0.192;37;CC1=C(N)C=CC(=C1)C;;37;Cc1ccc(N)c(C)c1
+3-Methylaniline;-0.28;-0.197;38;CC=1C=C(N)C=CC1;;38;Cc1cccc(N)c1
+4-Methylphenethyl alcohol;-0.26;0.076;40;CC1=CC=C(CCO)C=C1;;40;Cc1ccc(CCO)cc1
+Benzylamine;-0.24;-0.292;41;C(C1=CC=CC=C1)N;;41;NCc1ccccc1
+3-Methylbenzyl alcohol;-0.24;-0.08;43;CC=1C=C(CO)C=CC1;;43;Cc1cccc(CO)c1
+3-Nitrobenzyl alcohol;-0.22;0.153;46;[N+](=O)([O-])C=1C=C(CO)C=CC1;;46;O=[N+]([O-])c1cccc(CO)c1
+3-Phenyl-1-propanol;-0.21;0.092;47;C1(=CC=CC=C1)CCCO;;47;OCCCc1ccccc1
+Benzaldehyde;-0.2;-0.214;48;C(C1=CC=CC=C1)=O;;48;O=Cc1ccccc1
+2-Phenyl-3-butyn-2-ol;-0.18;0.196;49;C1(=CC=CC=C1)C(C)(C#C)O;;49;C#CC(C)(O)c1ccccc1
+1-Phenyl-2-butanol;-0.16;0.222;52;C1(=CC=CC=C1)CC(CC)O;;52;CCC(O)Cc1ccccc1
+4-Methylphenol;-0.16;0.254;55;CC1=CC=C(C=C1)O;;55;Cc1ccc(O)cc1
+4-Methoxyphenol;-0.14;0.419;58;COC1=CC=C(C=C1)O;;58;COc1ccc(O)cc1
+Phenetole;-0.14;0.17;59;C1(=CC=CC=C1)OCC;;59;CCOc1ccccc1
+3-Hydroxy-4-methoxybenzaldehyde;-0.14;0.168;60;OC=1C=C(C=O)C=CC1OC;;60;COc1ccc(C=O)cc1O
+Chlorobenzene;-0.13;0.202;61;ClC1=CC=CC=C1;;61;Clc1ccccc1
+245-Trimethoxybenzaldehyde;-0.1;0.627;67;COC1=C(C=O)C=C(C(=C1)OC)OC;;67;COc1cc(OC)c(OC)cc1C=O
+35-Dimethoxyphenol;-0.09;0.375;69;COC=1C=C(C=C(C1)OC)O;;69;COc1cc(O)cc(OC)c1
+3-Methylphenol;-0.08;0.224;70;CC=1C=C(C=CC1)O;;70;Cc1cccc(O)c1
+2-Nitroanisole;-0.07;0.372;74;[N+](=O)([O-])C1=C(C=CC=C1)OC;;74;COc1ccccc1[N+](=O)[O-]
+3-Methoxy-4-hydroxybenzaldehyde;-0.03;0.235;79;COC=1C=C(C=O)C=CC1O;;79;COc1cc(C=O)ccc1O
+Ethyl phenylcyanoacetate;-0.02;0.817;81;C1(=CC=CC=C1)C(C(=O)OCC)C#N;;81;CCOC(=O)C(C#N)c1ccccc1
+3-Ethoxy-4-hydroxybenzaldehyde;0.02;0.381;88;C(C)OC=1C=C(C=O)C=CC1O;;88;CCOc1cc(C=O)ccc1O
+4-Fluorophenol;0.02;0.312;89;FC1=CC=C(C=C1)O;;89;Oc1ccc(F)cc1
+(±)-2-Phenyl-2-butanol;0.06;0.288;93;C1(=CC=CC=C1)C(C)(CC)O;;93;CCC(C)(O)c1ccccc1
+2-Bromobenzyl alcohol;0.1;0.28;104;BrC1=C(CO)C=CC=C1;;104;OCc1ccccc1Br
+3-Nitrobenzaldehyde;0.11;0.312;107;[N+](=O)([O-])C=1C=C(C=O)C=CC1;;107;O=Cc1cccc([N+](=O)[O-])c1
+2-Anisaldehyde;0.15;0.033;120;C(C=1C(=CC=CC1)OC)=O;;120;COc1ccccc1C=O
+(±)-1-Phenyl-2-pentanol;0.16;0.547;123;C1(=CC=CC=C1)CC(CCC)O;;123;CCCC(O)Cc1ccccc1
+Pentafluoroaniline;0.26;0.994;145;FC1=C(C(=C(N(F)F)C=C1)F)F;;145;Fc1ccc(N(F)F)c(F)c1F
+236-Trimethylphenol;0.28;0.495;148;CC1=C(C(=CC=C1C)C)O;;148;Cc1ccc(C)c(O)c1C
+235-trimethylphenol;0.36;0.52;161;CC1=C(C=C(C=C1C)C)O;;161;Cc1cc(C)c(C)c(O)c1
+2-Benzylpyridine;0.38;0.631;166;C(C1=CC=CC=C1)C1=NC=CC=C1;;166;c1ccc(Cc2ccccn2)cc1
+5-Phenyl-1-pentanol;0.42;0.519;171;C1(=CC=CC=C1)CCCCCO;;171;OCCCCCc1ccccc1
+246-Trimethylphenol;0.42;0.692;173;CC1=C(C(=CC(=C1)C)C)O;;173;Cc1cc(C)c(O)c(C)c1
+Dimethylnitroterephthalate;0.43;1.887;177;CC=1C(=C(C(=C(C(=O)[O-])C1)[N+](=O)[O-])C)C(=O)[O-];;177;Cc1cc(C(=O)[O-])c([N+](=O)[O-])c(C)c1C(=O)[O-]
+4-Bromotoluene;0.47;0.581;180;BrC1=CC=C(C=C1)C;;180;Cc1ccc(Br)cc1
+4-iso-Propylphenol;0.47;0.404;182;C(C)(C)C1=CC=C(C=C1)O;;182;CC(C)c1ccc(O)cc1
+Benzhydrol;0.5;0.782;184;C(C1=CC=CC=C1)(C1=CC=CC=C1)O;;184;OC(c1ccccc1)c1ccccc1
+12-Dimethyl-3-nitrobenzene;0.56;0.527;194;CC1=C(C(=CC=C1)[N+](=O)[O-])C;;194;Cc1cccc([N+](=O)[O-])c1C
+12-Dimethyl-4-nitrobenzene;0.59;0.574;199;CC1=C(C=C(C=C1)[N+](=O)[O-])C;;199;Cc1ccc([N+](=O)[O-])cc1C
+2-Bromo-4-methylphenol;0.6;0.759;203;BrC1=C(C=CC(=C1)C)O;;203;Cc1ccc(O)c(Br)c1
+4-Butoxyaniline;0.61;0.417;205;C(CCC)OC1=CC=C(N)C=C1;;205;CCCCOc1ccc(N)cc1
+3-iso-Propylphenol;0.61;0.772;207;C(C)(C)C=1C=C(C=CC1)O;;207;CC(C)c1cccc(O)c1
+4-Benzylpyridine;0.63;0.674;213;C(C1=CC=CC=C1)C1=CC=NC=C1;;213;c1ccc(Cc2ccncc2)cc1
+Benzyl methacrylate;0.65;0.645;218;C(C(=C)C)(=O)OCC1=CC=CC=C1;;218;C=C(C)C(=O)OCc1ccccc1
+4-Benzoylaniline;0.68;0.966;229;C(C1=CC=CC=C1)(=O)C1=CC=C(N)C=C1;;229;Nc1ccc(C(=O)c2ccccc2)cc1
+4-Butoxyphenol;0.7;0.844;232;C(CCC)OC1=CC=C(C=C1)O;;232;CCCCOc1ccc(O)cc1
+24-Dinitroaniline;0.72;0.365;238;[N+](=O)([O-])C1=C(N)C=CC(=C1)[N+](=O)[O-];;238;Nc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
+11-Diphenyl-2-propanol;0.75;0.852;242;C1(=CC=CC=C1)C(C(C)O)C1=CC=CC=C1;;242;CC(O)C(c1ccccc1)c1ccccc1
+45-Difluoro-2-nitroaniline;0.75;1.04;247;FC1=CC(=C(N)C=C1F)[N+](=O)[O-];;247;Nc1cc(F)c(F)cc1[N+](=O)[O-]
+Methyl-25-dichlorobenzoate;0.81;1.336;257;COC(C1=C(C=CC(=C1)Cl)Cl)=O;;257;COC(=O)c1cc(Cl)ccc1Cl
+Pentafluorobenzaldehyde;0.82;1.217;259;FC1=C(C(=C(C(=C1C=O)F)F)F)F;;259;O=Cc1c(F)c(F)c(F)c(F)c1F
+Methyl-4-chloro-2-nitrobenzoate;0.82;1.538;261;COC(C1=C(C=C(C=C1)Cl)[N+](=O)[O-])=O;;261;COC(=O)c1ccc(Cl)cc1[N+](=O)[O-]
+26-Dinitrophenol;0.83;1.33;263;[N+](=O)([O-])C1=C(C(=CC=C1)[N+](=O)[O-])O;;263;O=[N+]([O-])c1cccc([N+](=O)[O-])c1O
+26-Dinitroaniline;0.84;0.793;264;[N+](=O)([O-])C1=C(N)C(=CC=C1)[N+](=O)[O-];;264;Nc1c([N+](=O)[O-])cccc1[N+](=O)[O-]
+24-Dinitrotoluene;0.87;1.049;271;[N+](=O)([O-])C1=C(C=CC(=C1)[N+](=O)[O-])C;;271;Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]
+24-Dichloronitrobenzene;0.99;1.249;277;ClC1=C(C=CC(=C1)Cl)[N+](=O)[O-];;277;O=[N+]([O-])c1ccc(Cl)cc1Cl
+25-Dinitrophenol;1.04;1.199;282;[N+](=O)([O-])C1=C(C=C(C=C1)[N+](=O)[O-])O;;282;O=[N+]([O-])c1ccc([N+](=O)[O-])c(O)c1
