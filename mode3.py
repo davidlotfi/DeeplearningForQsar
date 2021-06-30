@@ -41,7 +41,6 @@ print(model.summary())
 #compile le modele
 
 
-
 model.compile(loss='mse', optimizer='adam',metrics=['accuracy'])
 print('compile model')
 
